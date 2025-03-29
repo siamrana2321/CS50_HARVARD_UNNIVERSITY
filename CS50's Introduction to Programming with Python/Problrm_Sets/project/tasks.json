@@ -1,0 +1,42 @@
+[
+    {
+        "id": 2,
+        "task": "Submit Job Application",
+        "category": "Career",
+        "due_date": "2025-04-01",
+        "priority": "High",
+        "completed": false
+    },
+    {
+        "id": 3,
+        "task": "Call Mom",
+        "category": "Family",
+        "due_date": "2025-03-31",
+        "priority": "Medium",
+        "completed": true
+    },
+    {
+        "id": 4,
+        "task": "Grocery Shopping",
+        "category": "Personal",
+        "due_date": "2025-03-30",
+        "priority": "Low",
+        "completed": true
+    },
+    {
+        "id": 5,
+        "task": "Presentation for Meeting",
+        "category": "Work",
+        "due_date": "2025-04-03",
+        "priority": "High",
+        "completed": false
+    },
+    {
+        "id": 6,
+        "task": "Pay Electricity Bill",
+        "category": "Finance",
+        "due_date": "2025-04-02",
+        "priority": "High",
+        "completed": false
+    }
+]
